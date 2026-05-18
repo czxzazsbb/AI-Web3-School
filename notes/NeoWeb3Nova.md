@@ -17,7 +17,7 @@ AI x Web3 School
 <!-- Content_START -->
 # 2026-05-18
 <!-- DAILY_CHECKIN_2026-05-18_START -->
-````
+```
 # 2026-05-18 学习笔记
 
 ## 今日课程
@@ -47,6 +47,12 @@ AI x Web3 School
 > 有余力可尝试的扩展
 
 - [x] 安装 Hermes Agent 或配置本地 AI Agent 环境，完成第一次 Vibe Coding 小实验
+```
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/AI-Web3-School/main/assets/NeoWeb3Nova/images/2026-05-18-1779094649952-image.png)
+
+````
+
 - [x] 阅读 [Agent 章节](https://aiweb3.school/zh/handbook/ai/agent/)，尝试写一个简单的 tool-calling 脑图
 
 ## 笔记与思考
