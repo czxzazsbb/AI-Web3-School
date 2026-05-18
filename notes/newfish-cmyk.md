@@ -15,6 +15,14 @@ AI x Web3 School
 ## Notes
 
 <!-- Content_START -->
+# 2026-05-18
+<!-- DAILY_CHECKIN_2026-05-18_START -->
+今天完成了 AI x Web3 School 个人 Learning Agent 和学习仓库初始化。
 
+我的当前学习画像是：AI 基础较熟悉，Web3 仍是新手，能独立开发，输出语言偏好中文。因此接下来会采用项目驱动路线，而不是只线性读材料。第一阶段会围绕 Hackathon 项目补齐钱包、签名、链、合约、账户抽象、链上数据和安全边界等核心概念。
 
+今天已经确认并更新了学习仓库结构，包括 daily notes、tasks、experiments、handbook-feedback、hackathon、submissions 和 templates。后续每天会把学习记录、实验结果、打卡草稿和 Handbook 反馈都沉淀到仓库里，形成可复盘的 proof-of-work。
+
+下一步我会从 Handbook 的 Web3 基础和 AI x Web3 Bridge 开始，选一个最小 Web3 实验，例如查询地址余额、理解一笔交易，或连接钱包读取地址，并把过程中遇到的问题整理成 Handbook feedback。
+<!-- DAILY_CHECKIN_2026-05-18_END -->
 <!-- Content_END -->
