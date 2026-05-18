@@ -15,6 +15,8 @@ AI x Web3 School
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-05-18
+<!-- DAILY_CHECKIN_2026-05-18_START -->
+观看了开营仪式，了解了ai-web3-school的基本流程
+<!-- DAILY_CHECKIN_2026-05-18_END -->
 <!-- Content_END -->
