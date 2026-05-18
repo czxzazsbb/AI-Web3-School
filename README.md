@@ -583,7 +583,7 @@ more information
 | [ouou721](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/ouou721.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [TheaterSwallower](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/TheaterSwallower.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yy69rm7p8q-dot](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/yy69rm7p8q-dot.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [reny1cao](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/reny1cao.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [reny1cao](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/reny1cao.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Twinstars526](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Twinstars526.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [linlinlinhu98](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/linlinlinhu98.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [georgetsolos](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/georgetsolos.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1207,6 +1207,7 @@ more information
 | [vanadiumricard-cell](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/vanadiumricard-cell.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [cainiao0924](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/cainiao0924.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
