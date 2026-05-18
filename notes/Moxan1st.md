@@ -15,6 +15,12 @@ AI x Web3 School
 ## Notes
 
 <!-- Content_START -->
+# 2026-05-18
+<!-- DAILY_CHECKIN_2026-05-18_START -->
+Week 1 Day 1
 
+给老板讲了一下答辩报告，燃尽了。
 
+明天答辩，今天混一混。
+<!-- DAILY_CHECKIN_2026-05-18_END -->
 <!-- Content_END -->
