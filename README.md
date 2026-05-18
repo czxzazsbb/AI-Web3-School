@@ -761,7 +761,7 @@ more information
 | [sun97956](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/sun97956.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [qiu815712](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/qiu815712.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/brucexu-eth.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [numberngc2237-cyber](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/numberngc2237-cyber.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [numberngc2237-cyber](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/numberngc2237-cyber.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Always-Stephen](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Always-Stephen.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [wonderl17](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/wonderl17.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Igor777-Li](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Igor777-Li.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1207,6 +1207,7 @@ more information
 | [vanadiumricard-cell](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/vanadiumricard-cell.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [cainiao0924](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/cainiao0924.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
