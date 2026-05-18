@@ -1007,7 +1007,7 @@ more information
 | [vahi0](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/vahi0.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Friendlyfirefly](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Friendlyfirefly.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Thiago610](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Thiago610.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [Wea1her](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Wea1her.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Wea1her](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Wea1her.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [chubai0669-byte](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/chubai0669-byte.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [xukangjie](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/xukangjie.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [lewis2026120](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/lewis2026120.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1207,6 +1207,7 @@ more information
 | [vanadiumricard-cell](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/vanadiumricard-cell.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [cainiao0924](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/cainiao0924.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
