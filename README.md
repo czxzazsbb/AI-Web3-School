@@ -214,7 +214,7 @@ more information
 | [NOVA1107](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/NOVA1107.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Opfor-World](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Opfor-World.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [cliffordisgoodman-cpu](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/cliffordisgoodman-cpu.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [ybk-1](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/ybk-1.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ybk-1](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/ybk-1.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [cherrybloosm33](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/cherrybloosm33.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Minami-Bein](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/Minami-Bein.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [HirongVSuen](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/HirongVSuen.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1213,6 +1213,7 @@ more information
 | [lei612](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/lei612.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [lusora-ai](https://github.com/IntensiveCoLearning/AI-Web3-School/blob/main/notes/lusora-ai.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
